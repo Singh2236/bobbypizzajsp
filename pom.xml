@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.navpreet</groupId>
-    <artifactId>bobbypizzajsp</artifactId>
+    <artifactId>BobbyPizzaJsp</artifactId>
     <version>1</version>
     <name>BobbyPizzaJsp</name>
     <packaging>war</packaging>
