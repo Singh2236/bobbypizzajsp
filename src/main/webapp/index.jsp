@@ -17,7 +17,7 @@
 <a href='/BobbyPizzaJsp_war/searchResults.jsp?st=GYROS'> GYROS </a> &nbsp
 <a href='/BobbyPizzaJsp_war/searchResults.jsp?st=ÜBERBAKEN'> ÜBERBAKEN </a> &nbsp
 <a href='/BobbyPizzaJsp_war/searchResults.jsp?st=FLEISH'> FLEISH </a> &nbsp
-<a href='/BobbyPizzaJsp_war/order.html'> Place Order </a> &nbsp
+<a href='/BobbyPizzaJsp-1/order.html'> Place Order </a> &nbsp
 <a href='/BobbyPizzaJsp_war/SearchMenu.jsp'> Search Item </a>
 
 <!-- -->
