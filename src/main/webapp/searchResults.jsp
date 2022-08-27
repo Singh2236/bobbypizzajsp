@@ -32,7 +32,7 @@
 
 </ul>
 <br>
-<a href='/BobbyPizzaJsp_war/index.jsp'>Home</a>
+<a href='/index.jsp'>Home</a>
 
 </body>
 </html>

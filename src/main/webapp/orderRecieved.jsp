@@ -39,8 +39,8 @@
 <h1>Bobby's Pizza</h1>
 <h2>Thank you - your order has been received. You need to pay Euro: <%= total%>
 </h2>
-Want to make a <a href='/BobbyPizzaJsp_war/order.html'> New Order </a>? <br>
-<a href='/BobbyPizzaJsp_war/index.jsp'>Home</a>
+Want to make a <a href='/order.html'> New Order </a>? <br>
+<a href='/index.jsp'>Home</a>
 
 </body>
 </html>

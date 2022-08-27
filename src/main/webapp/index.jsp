@@ -11,14 +11,14 @@
 <h2>Menu</h2>
 
 <!-- Dashboard -->
-<a href='/BobbyPizzaJsp/searchResults.jsp?st=pizza'> PIZZA </a> &nbsp
-<a href='/BobbyPizzaJsp/searchResults.jsp?st=flamkuchen'> FLAMKUCHEN </a> &nbsp
-<a href='/BobbyPizzaJsp/searchResults.jsp?st=SALAT'> SALAT </a> &nbsp
-<a href='/BobbyPizzaJsp/searchResults.jsp?st=GYROS'> GYROS </a> &nbsp
-<a href='/BobbyPizzaJsp/searchResults.jsp?st=ÜBERBAKEN'> ÜBERBAKEN </a> &nbsp
-<a href='/BobbyPizzaJsp/searchResults.jsp?st=FLEISH'> FLEISH </a> &nbsp
-<a href='/BobbyPizzaJsp/order.html'> Place Order </a> &nbsp
-<a href='/BobbyPizzaJsp/SearchMenu.jsp'> Search Item </a>
+<a href='/searchResults.jsp?st=pizza'> PIZZA </a> &nbsp
+<a href='/searchResults.jsp?st=flamkuchen'> FLAMKUCHEN </a> &nbsp
+<a href='/searchResults.jsp?st=SALAT'> SALAT </a> &nbsp
+<a href='/searchResults.jsp?st=GYROS'> GYROS </a> &nbsp
+<a href='/searchResults.jsp?st=ÜBERBAKEN'> ÜBERBAKEN </a> &nbsp
+<a href='/searchResults.jsp?st=FLEISH'> FLEISH </a> &nbsp
+<a href='/order.html'> Place Order </a> &nbsp
+<a href='/SearchMenu.jsp'> Search Item </a>
 
 <!-- -->
 <ul>
