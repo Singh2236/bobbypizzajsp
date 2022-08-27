@@ -11,14 +11,14 @@
 <h2>Menu</h2>
 
 <!-- Dashboard -->
-<a href='/BobbyPizzaJsp_war/searchResults.jsp?st=pizza'> PIZZA </a> &nbsp
-<a href='/BobbyPizzaJsp_war/searchResults.jsp?st=flamkuchen'> FLAMKUCHEN </a> &nbsp
-<a href='/BobbyPizzaJsp_war/searchResults.jsp?st=SALAT'> SALAT </a> &nbsp
-<a href='/BobbyPizzaJsp_war/searchResults.jsp?st=GYROS'> GYROS </a> &nbsp
-<a href='/BobbyPizzaJsp_war/searchResults.jsp?st=ÜBERBAKEN'> ÜBERBAKEN </a> &nbsp
-<a href='/BobbyPizzaJsp_war/searchResults.jsp?st=FLEISH'> FLEISH </a> &nbsp
-<a href='/BobbyPizzaJsp-1/order.html'> Place Order </a> &nbsp
-<a href='/BobbyPizzaJsp_war/SearchMenu.jsp'> Search Item </a>
+<a href='/BobbyPizzaJsp/searchResults.jsp?st=pizza'> PIZZA </a> &nbsp
+<a href='/BobbyPizzaJsp/searchResults.jsp?st=flamkuchen'> FLAMKUCHEN </a> &nbsp
+<a href='/BobbyPizzaJsp/searchResults.jsp?st=SALAT'> SALAT </a> &nbsp
+<a href='/BobbyPizzaJsp/searchResults.jsp?st=GYROS'> GYROS </a> &nbsp
+<a href='/BobbyPizzaJsp/searchResults.jsp?st=ÜBERBAKEN'> ÜBERBAKEN </a> &nbsp
+<a href='/BobbyPizzaJsp/searchResults.jsp?st=FLEISH'> FLEISH </a> &nbsp
+<a href='/BobbyPizzaJsp/order.html'> Place Order </a> &nbsp
+<a href='/BobbyPizzaJsp/SearchMenu.jsp'> Search Item </a>
 
 <!-- -->
 <ul>
